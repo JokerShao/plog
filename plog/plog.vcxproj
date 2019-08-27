@@ -160,7 +160,6 @@
     <ClInclude Include="..\include\plog\Appenders\RollingFileAppender.h" />
     <ClInclude Include="..\include\plog\Converters\NativeEOLConverter.h" />
     <ClInclude Include="..\include\plog\Converters\UTF8Converter.h" />
-    <ClInclude Include="..\include\plog\customplog.h" />
     <ClInclude Include="..\include\plog\Formatters\CsvFormatter.h" />
     <ClInclude Include="..\include\plog\Formatters\FuncMessageFormatter.h" />
     <ClInclude Include="..\include\plog\Formatters\MessageOnlyFormatter.h" />

@@ -81,9 +81,6 @@
     <ClInclude Include="..\include\plog\Appenders\RollingFileAppender.h">
       <Filter>头文件</Filter>
     </ClInclude>
-    <ClInclude Include="..\include\plog\customplog.h">
-      <Filter>头文件</Filter>
-    </ClInclude>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="stdafx.cpp">
